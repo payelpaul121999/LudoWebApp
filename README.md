@@ -32,7 +32,8 @@
 ---
 
 ## 🎮 How to Play
-
+This is the project link
+https://payelpaul121999.github.io/LudoWebApp/
 1. Open `index.html` in any browser — no installation needed
 2. Each player takes turns rolling the dice
 3. Roll a **6** to bring a token out of home base
