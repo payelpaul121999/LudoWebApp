@@ -4,7 +4,7 @@
 
 **A classic 4-player Ludo board game built with pure HTML, CSS & JavaScript**
 
-![HTML](<img width="1791" height="887" alt="image" src="https://github.com/user-attachments/assets/6617ef25-fe86-407b-a9bd-6ffc7e1a0b41" />
+<img width="1791" height="887" alt="image" src="https://github.com/user-attachments/assets/6617ef25-fe86-407b-a9bd-6ffc7e1a0b41" />
 
 
 *Vibe coded with ❤️ — no frameworks, no build tools, just vibes*
